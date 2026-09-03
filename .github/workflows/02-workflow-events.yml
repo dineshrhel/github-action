@@ -1,8 +1,6 @@
 name: 02 - workflow events
 
 on:
-    schedule:
-        - cron: '* * * 10 *'
     workflow_dispatch:
 
 
